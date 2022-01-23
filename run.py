@@ -1,4 +1,4 @@
-from flaskblog import app
+from flashlight_forum import app
 
 if __name__ == '__main__':
     app.run(debug=True)
